@@ -30,3 +30,6 @@ var numSplits = function(s) {
 
   return arr.filter(a => a[0] == a[1]).length;
 };
+
+//The filter() method creates a new array filled with elements that pass a test provided by a function. 
+//The filter() method does not execute the function for empty elements.
