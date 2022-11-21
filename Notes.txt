@@ -20,3 +20,5 @@ value from the calculation on the preceding element. The final result of running
 
 The filter() method creates a new array filled with elements that pass a test provided by a function. 
 The filter() method does not execute the function for empty elements.
+
+The split() method splits a string into an array of substrings
