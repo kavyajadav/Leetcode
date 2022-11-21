@@ -11,3 +11,6 @@ var isAnagram = function(s, t) {
     var b = t.split("").sort();
     return a.length === b.length && a.every((val, index) => val === b[index]);
 };
+
+
+//The split() method splits a string into an array of substrings
